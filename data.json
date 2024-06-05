@@ -6,20 +6,7 @@
     "name": "Satish",
     "avatar": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250"
   },
-  "user": {
-    "Email": "second@gmail.com",
-    "Password": "second@2",
-    "greeting": "Hello!",
-    "name": "Satish",
-    "avatar": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250"
-  },
-  "user": {
-    "Email": "third@gmail.com",
-    "Password": "Therd@3",
-    "greeting": "Hello!",
-    "name": "Satish",
-    "avatar": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250"
-  },
+  
   "doctorsList": [
     {
       "doctorImage": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250",
@@ -34,6 +21,27 @@
       "specialization": "Pediatrics",
       "appointmentIcon": "<URL or path to appointment icon>",
       "price": 450
+    }
+     {
+      "doctorImage": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250",
+      "doctorName": "Dr. Johnson",
+      "specialization": "Pediatrics",
+      "appointmentIcon": "<URL or path to appointment icon>",
+      "price": 250
+    }
+     {
+      "doctorImage": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250",
+      "doctorName": "Dr. tom",
+      "specialization": "Pediatrics",
+      "appointmentIcon": "<URL or path to appointment icon>",
+      "price": 550
+    }
+     {
+      "doctorImage": "https://www.gravatar.com/avatar/2c7d99fe281ecd3bcd65ab915bac6dd5?s=250",
+      "doctorName": "Dr. Jon",
+      "specialization": "Pediatrics",
+      "appointmentIcon": "<URL or path to appointment icon>",
+      "price": 400
     }
   ]
 }
